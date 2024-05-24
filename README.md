@@ -25,7 +25,7 @@ DSBDA(Data Sciene and Big Data Analytics) Practicals (2019 Pattern SPPU)
     3. Display missing values and inconsistencies.
     4. Replace missing values using any 2 suitable
 
-4.Perform the following operation using titanic data set.
+4. Perform the following operation using titanic data set.
     1. check how the price of the ticket (column name: &#39;fare&#39;) for each
     passenger is distributed by plotting a histogram.
     2. plot a box plot for distribution of age with respect to each gender along
@@ -33,21 +33,20 @@ DSBDA(Data Sciene and Big Data Analytics) Practicals (2019 Pattern SPPU)
     names : &#39;sex&#39; and &#39;age&#39;)
     3. Write observations on the inference from the above statistics.
     
-5.Perform the following operations on iris dataset
+5. Perform the following operations on iris dataset
     1. List down the features and their types
     2. Create a box plot and histogram for each feature in the dataset.
     3. Compare distributions and identify outliers.
 
-6.Create a Linear Regression Model using Python/R to predict home prices using Boston Housing Dataset. 
+6. Create a Linear Regression Model using Python/R to predict home prices using Boston Housing Dataset. 
 Find the performance of your model.
 
-7. Create a   logistic regression model  on social network ads.csv to perform classification on given dataset.
-8. Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall .
+7. Create a   logistic regression model  on social network ads.csv to perform classification on given dataset. Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall .
 
-8.Create a Naïve Bayes classification model using Python on on social network ads.csv   dataset. 
+8. Create a Naïve Bayes classification model using Python on on social network ads.csv   dataset. 
 Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision, Recall on the given dataset.
 
-9.For given text apply following preprocessing methods:
+9. For given text apply following preprocessing methods:
     1. Tokenization
     2. POS Tagging
     3. Stop word Removal
@@ -72,7 +71,7 @@ Compute Confusion matrix to find TP, FP, TN, FN, Accuracy, Error rate, Precision
     4.Handle outlier using any technique
     5.Perform data normalization using decimal scaling
 
-14.For given text apply following preprocessing methods:
+14. For given text apply following preprocessing methods:
     1. Tokenization
     2. POS Tagging
     3. Stop word Removal
